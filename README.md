@@ -1,4 +1,4 @@
-# Help!SOS Application
+# Help! SOS Application
 # Help! SOS 애플리케이션
   * 개발 기간
     - 2019년
