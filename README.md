@@ -20,7 +20,7 @@
 ---
 
 ### 개발자
-- 김민철, 양혜민, [윤대호(@DaeHoo-Yun @201810788)](https://github.com/201810788), 이정곤, [이혜인(@hyeinlee725)](https://github.com/hyeinlee725), [정민지(@minji-o-j)](https://github.com/minji-o-j)
+- 김민철, 양혜민, 윤대호([@DaeHoo-Yun @201810788](https://github.com/201810788)), 이정곤, 이혜인([@hyeinlee725](https://github.com/hyeinlee725)), 정민지([@minji-o-j](https://github.com/minji-o-j))
 ---
 ### 사용 프로그램
 - 안드로이드 스튜디오
