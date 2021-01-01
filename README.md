@@ -1,5 +1,5 @@
 # Help! SOS application
-
+[ ](https://github.com/ML-DL-Study/sos-application/compare/master...minji-o-j:master)
 # Help! SOS 애플리케이션 제작
 
 [요약](#요약)  
